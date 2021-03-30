@@ -1,6 +1,6 @@
 # Realm Task
 
-This is the simplest method of connecting to Atlas via realm and displaying data.  Its one html file.  Simply replace the application id (YOUR_APP_ID) with your task application id in the html file.   
+This is the simplest method of connecting to Atlas via realm and displaying data.  Its one html file.  Simply replace the application id (YOUR_APP_ID on line 15) with your task application id in the html file.   
 
 Next steps:   
 1. Allow anonymous authentication   
